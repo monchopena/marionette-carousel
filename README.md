@@ -1,6 +1,8 @@
 # Marionette Carousel
 
-* My First steps with Marionette
+My First steps with Marionette
+
+A live versión of the project: [Go live](http://buddy.bdunk.com/)
 
 ![Screenshot](app/assets/images/marionette_carousel.png)
 
